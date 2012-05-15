@@ -53,7 +53,7 @@ $
 ### sprintf with a specific version
     $ ./deb-npm-autopackage.sh sprintf 0.1.0
     [ output snipped ]
-    ls *deb
+    $ ls *deb
     node-auto-sprintf_0.1.0_all.deb
 
 
